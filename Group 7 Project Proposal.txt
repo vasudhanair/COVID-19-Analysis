@@ -1,0 +1,53 @@
+﻿Project Title: COVID-19 Analysis
+
+
+Team Members: 
+* Megan Cogguillo
+* Sybile Cherenfant
+* Brandon Lee
+* Vasudha Nair
+* Kristy Bao
+
+
+Description / Outline
+
+
+Our project will look at COVID-19 data and determine which factors impact case counts and death rates, including:
+* Policy (red states vs. blue states)
+* Population age
+* Median income
+* Travel rates
+* Population density
+
+
+Questions to Address
+* What kinds of actions/policies impact case count and death rates?
+   * Red states vs. blue states case counts & death rates
+   * Different trends over time in red states vs. blue states
+   * How do mask mandates impact COVID transmission? 
+* Do areas with higher average/median age of population have higher death rates?
+* Do areas with lower median income have higher case counts?
+* Do areas with greater travel have higher case counts?
+* Do areas with higher population density have higher case counts?
+
+
+Datasets to Use: 
+
+
+John Hopkins Data, including:
+* 1_county_level_confirmed_cases.csv
+* 2_cases_and_deaths_by_county_timeseries.csv
+* 3_cases_and_deaths_by_state_timeseries.csv
+* States with the current highest per-capita rates of cases
+
+
+TBD dataset on mask mandates (if this exists)
+
+
+TBD dataset on travel
+
+
+TBD dataset on political affiliation of states/counties 
+
+
+Census data (median income, average age of population, population density, etc.)
