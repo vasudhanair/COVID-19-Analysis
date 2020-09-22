@@ -1,7 +1,13 @@
 # Group-7-Project
 COVID-19 Analysis
-Brandon Lee 
+
 Sybile Cherenfant
+
+Vasudha
+
+
+
+brandon
 
 Megan Cogguillo
 Kristy
