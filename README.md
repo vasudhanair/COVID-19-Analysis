@@ -2,3 +2,4 @@
 COVID-19 Analysis
 
 Megan Cogguillo
+Kristy
