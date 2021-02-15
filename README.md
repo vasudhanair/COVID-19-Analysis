@@ -1,6 +1,6 @@
 # COVID-19 Analysis
 
-Group Members: Sybile Cherenfant, Megan Cogguillo, Vasudha Nai, Brandon Lee
+Group Members: Sybile Cherenfant, Megan Cogguillo, Vasudha Nair, Brandon Lee
 
 Project description:
 
